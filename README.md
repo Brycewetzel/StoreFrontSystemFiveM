@@ -3,7 +3,7 @@
 A dynamic in-game marketplace system built for FiveM QBCore servers.  
 Players can buy, sell, and browse items through a physical map location with a full UI and server-side item handling.
 
-  # Features
+   # Features
 - Player-to-player item listings
 - Configurable blacklist/whitelist items
 - QBCore integration
